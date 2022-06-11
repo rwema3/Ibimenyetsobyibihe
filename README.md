@@ -1,2 +1,4 @@
-# IIMinnistrie
-Website ya Ibimenyetso by'Ibihe Ministries.
+# IIMinnistries
+Website | Ibimenyetso by'Ibihe Ministries.
+
+Web Developer: Rwema
